@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## VISUALIZACIONES CLASE DE HIPERTEXTO Y LENGUAJE DIGITAL 
 
-You can use the [editor on GitHub](https://github.com/paolatellez/Mireportaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Estas son las visualizaciones para la clase de hipertexto [editor on GitHub](https://github.com/paolatellez/Mireportaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
