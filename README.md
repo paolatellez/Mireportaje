@@ -17,8 +17,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 - Bulleted
 - List
-Mi TimeLine "Paola Andrea Tellez"
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DKV52nFj2vuv6DzDhOLA4qboBCq4BZ1Xsg_QPcHb0zQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 1. Numbered
 2. List
 
