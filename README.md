@@ -24,6 +24,6 @@ Mapa de 19 jurisdicciones:
 
 <iframe id="datawrapper-chart-4zQfx" src="//datawrapper.dwcdn.net/4zQfx/1/" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["4zQfx"]={},window.datawrapper["4zQfx"].embedDeltas={"100":525,"200":500,"300":425,"400":425,"500":400,"600":400,"700":400,"800":375,"900":375,"1000":375},window.datawrapper["4zQfx"].iframe=document.getElementById("datawrapper-chart-4zQfx"),window.datawrapper["4zQfx"].iframe.style.height=window.datawrapper["4zQfx"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["4zQfx"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("4zQfx"==b)window.datawrapper["4zQfx"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
-Los dueños de los medios:
+Utilidades de los medios:
 
 <iframe width="895.5" height="586.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOwBOERkuyo-wVxWPtvB_4rit-ektwdWvDMRHoV-MtHCM7Q5Wg3sljbpctjtjVc0pMwO45-o-hqKbd/pubchart?oid=929219701&amp;format=interactive"></iframe>
