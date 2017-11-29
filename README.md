@@ -1,6 +1,7 @@
 ## VISUALIZACIONES CLASE DE HIPERTEXTO Y LENGUAJE DIGITAL 
 
 Estas son las visualizaciones para la clase de hipertexto 
+Esta es una muestra de los bebes en diferentes países: 
 
 <iframe src="https://uploads.knightlab.com/storymapjs/dc6f0047de752ec354a63da1bad8466d/la-ruta-de-mi-vida/draft.html" frameborder="0" width="100%" height="800"></iframe>
 
