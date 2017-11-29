@@ -17,6 +17,6 @@ Mi historia:
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DKV52nFj2vuv6DzDhOLA4qboBCq4BZ1Xsg_QPcHb0zQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-Mapa 
+Mapa de 19 jurisdicciones: 
 
 <iframe id="datawrapper-chart-4zQfx" src="//datawrapper.dwcdn.net/4zQfx/1/" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["4zQfx"]={},window.datawrapper["4zQfx"].embedDeltas={"100":525,"200":500,"300":425,"400":425,"500":400,"600":400,"700":400,"800":375,"900":375,"1000":375},window.datawrapper["4zQfx"].iframe=document.getElementById("datawrapper-chart-4zQfx"),window.datawrapper["4zQfx"].iframe.style.height=window.datawrapper["4zQfx"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["4zQfx"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("4zQfx"==b)window.datawrapper["4zQfx"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
