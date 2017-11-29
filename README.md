@@ -27,3 +27,7 @@ Mapa de 19 jurisdicciones:
 Utilidades de los medios:
 
 <iframe width="895.5" height="586.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOwBOERkuyo-wVxWPtvB_4rit-ektwdWvDMRHoV-MtHCM7Q5Wg3sljbpctjtjVc0pMwO45-o-hqKbd/pubchart?oid=929219701&amp;format=interactive"></iframe>
+
+Humberto de la calle vs Gustavo Petro: 
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/02r1m_r","geo":"","time":"today 12-m"},{"keyword":"gustavo petro","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F02r1m_r,gustavo%20petro&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
