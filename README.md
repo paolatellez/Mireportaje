@@ -35,3 +35,7 @@ Humberto de la calle vs Gustavo Petro:
 Mapa de Paraisos Fiscales: 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ANscapbf6Q-hXMSkWLYIQTyOTXcSpFOz" width="640" height="480"></iframe>
+
+Carto:
+
+<iframe width="100%" height="520" frameborder="0" src="https://paolatellez13.carto.com/builder/cd28b1a4-ac58-4f64-a2ea-45dfdc83490b/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
