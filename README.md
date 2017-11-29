@@ -31,3 +31,7 @@ Utilidades de los medios:
 Humberto de la calle vs Gustavo Petro: 
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/02r1m_r","geo":"","time":"today 12-m"},{"keyword":"gustavo petro","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F02r1m_r,gustavo%20petro&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
+
+Mapa de Paraisos Fiscales: 
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ANscapbf6Q-hXMSkWLYIQTyOTXcSpFOz" width="640" height="480"></iframe>
